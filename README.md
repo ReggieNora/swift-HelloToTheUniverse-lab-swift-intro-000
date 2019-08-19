@@ -4,7 +4,7 @@
 
 > Keep your eyes on the stars, and your feet on the ground. – [Theodore Roosevelt](https://en.wikipedia.org/wiki/Theodore_Roosevelt)
 
-# Common Issues
+# Common Problems
 
 **Make sure that you went through all instructions in the Welcome Reading which can be found [here]( https://github.com/learn-co-curriculum/swift-welcome) before proceeding with this lesson, otherwise your lights will not work!**
 
